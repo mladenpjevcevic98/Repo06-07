@@ -1,0 +1,40 @@
+h1 
+{
+    color: red;
+    text-align: center;
+    
+}
+div.gallery alt
+{
+  text-align: center;
+  color: brown;
+  font-size: medium;
+
+}
+div.gallery {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  border: 1px solid #ccc;
+  float:left;
+  width: 330px;
+}
+div.gallery:hover
+{
+  border: 1px solid #777;
+}
+
+div.gallery img
+{
+    width: 330px;
+    height: 200px;
+    
+
+}
+div.decc 
+{
+  text-align: justify;
+  padding: 15px;
+  text-align: center;
+}
